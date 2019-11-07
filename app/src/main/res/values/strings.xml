@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PlazaEspacio</string>
+    <string name="mapa_pb">Mapa_pb</string>
+    <string name="mapa_p1">Mapa_p1</string>
+    <string name="mapa_p2">Mapa_p2</string>
+    <string name="piso1">Piso1</string>
+    <string name="piso_1">Piso 1</string>
+    <string name="piso_2">Piso 2</string>
+    <string name="planta_baja1">Planta Baja</string>
+    <string name="planta_baja2">Planta Baja</string>
+</resources>
