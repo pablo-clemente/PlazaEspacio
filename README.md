@@ -5,6 +5,7 @@
 
 ## How to run the program
 
+To run the application simply install the apk on the device where you want to use it.
 
 ## Introduction
 
