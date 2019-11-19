@@ -4,7 +4,9 @@
   In this repository stores the files to build a android studio project for an interactive map of Plaza Espacio Las Americas. 
 
 ## How to run the program
-
+Download
+PlazaEspacio V1.0
+https://github.com/pabloclemxnte/PlazaEspacio/raw/Releases/PlazaEspacio.apk
 To run the application simply install the apk on the device where you want to use it.
 
 ## Introduction
